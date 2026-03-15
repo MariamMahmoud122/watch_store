@@ -1,0 +1,13 @@
+# ملفات نظام التشغيل   
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ملفات الـ XAMPP والـ PHP المؤقتة
+php_errors.log
+*.log
+
+# ملفات برامج الكود 
+.vscode/
+.idea/
+
